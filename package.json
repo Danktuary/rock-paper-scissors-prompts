@@ -1,0 +1,7 @@
+{
+  "name": "rock-paper-scissors-prompts",
+  "main": "index.js",
+  "dependencies": {
+    "prompts": "^2.0.4"
+  }
+}
